@@ -1,7 +1,8 @@
-Accelerometer-controlled Frequency Meter
+# Accelerometer-controlled Frequency Meter
 
-Released under Creative Commons 3.0 by Jen Hanni
-http://compendiarious.net | jeh.wicker@gmail.com
+Released under Creative Commons 3.0 by Jenner Hanni
+
+This project was never completed or tested.
 
 This is a very simple accelerometer-controlled meter. 
 
